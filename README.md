@@ -35,8 +35,8 @@ I have also written two blog posts covering the following TypeScript topics:
 
 ## Repository Contents
 
-```solutions.ts, Access_Modifiers.md, Type_vs_Interface.md, README.md
-```
+solutions.ts, Access_Modifiers.md, Type_vs_Interface.md, README.md
+
 
 ## Conclusion
 
